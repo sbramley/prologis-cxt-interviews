@@ -47,5 +47,4 @@ Our questions will typically start simple enough, but often leave room to explor
 ## Websites
 * [Medium](https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9) 
 * [WaterFall Vs Agile - Guru](https://www.guru99.com/waterfall-vs-agile.html) 
-* 
 * [Interview Cake](https://www.interviewcake.com/) 
