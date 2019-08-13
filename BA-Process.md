@@ -31,7 +31,7 @@ A brief introduction to Prologis.
 
 Each interview will last approximately 45-­60 minutes and many will give you a chance to ask questions about Prologis or the role. These interviews will cover a number of technical and cultural assessments as described above.
 
-A 30-minute chat with a Prologis engineer, this is not a part of the interview process and is not included in the evaluation. It provides you an opportunity to learn more about Prologis by asking questions about our products, culture, what it’s like to work at Prologis, etc.
+A 30-minute chat with a Prologis team member, this is not a part of the interview process and is not included in the evaluation. It provides you an opportunity to learn more about Prologis by asking questions about our products, culture, what it’s like to work at Prologis, etc.
 
 # During the whiteboard interviews
 We’re interested in how you approach the problem, how you communicate with an audience and how you take an idea through to delivery.
