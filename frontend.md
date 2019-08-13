@@ -1,4 +1,4 @@
-# D&amp;B Solution Engineering Frontend Challenge
+# Prologis CX Frontend Challenge
 
 Thank you for taking the time to do our technical test. It consists of two parts:
 
