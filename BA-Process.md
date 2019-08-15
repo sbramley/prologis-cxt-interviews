@@ -18,7 +18,7 @@ You'll be speaking with one of our tech leads or senior BA's to understand the t
 You’ll be solving one or more different business problems by architecting solutions on a whiteboard.
 
 #### Process Review
-Our goal is to understand the depth and breadth of experiences you’ve had as an engineer. We’ll look to understand the types of roles you’ve led, the teams you've worked with and your experience with project management, QA and BA's.  
+Our goal is to understand the depth and breadth of experiences you’ve had as an BA. We’ll look to understand the types of roles you’ve led, the teams you've worked with and your experience with stake holders and fellow BA's.  
 
 #### Resumé Review
 This interview focuses on your background, the places you’ve worked, the teams you’ve been part of, and the impact you’ve had. We’re interested in learning the story of how you arrived at where you are in your career and understanding the key experiences and opportunities that have shaped you in the process.
@@ -36,7 +36,7 @@ A 30-minute chat with a Prologis team member, this is not a part of the intervie
 # During the whiteboard interviews
 We’re interested in how you approach the problem, how you communicate with an audience and how you take an idea through to delivery.
 
-Our questions will typically start simple enough, but often leave room to explore interesting challenges. Real world challenges are often nuanced or subtle, and solutions to them often have second­order effects. Parts of our interview process are designed to explore these types of scenarios with you. You might be asked to solve a question multiple times with a variety of different constraints. Most of the problems will have a variety of different answers ranging from a naive solution to some much too complex to fit on a whiteboard. An optimal answer would be great, but we’re also interested in how you approach the problem – your thought process.
+Our questions will typically start simple enough, but often leave room to explore interesting challenges. Real world challenges are often nuanced or subtle, and solutions to them often have second­order effects. Parts of our interview process are designed to explore these types of scenarios with you. Most of the problems will have a variety of different answers ranging from a naive solution to some much too complex to fit on a whiteboard. An optimal answer would be great, but we’re also interested in how you approach the problem – your thought process.
 
 # How to prepare for your on-site interview
 * Research REST API's
@@ -47,4 +47,3 @@ Our questions will typically start simple enough, but often leave room to explor
 ## Websites
 * [Medium](https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9) 
 * [WaterFall Vs Agile - Guru](https://www.guru99.com/waterfall-vs-agile.html) 
-* [Interview Cake](https://www.interviewcake.com/) 
