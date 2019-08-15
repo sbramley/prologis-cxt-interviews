@@ -1,3 +1,5 @@
+# Overview of the hiring process
+
 What we’re looking for during the on-site interviews
 * Collaboration
 * Communication
@@ -8,7 +10,8 @@ What we’re looking for during the on-site interviews
 * Logical Reasoning
 * Problem Solving
 * Thoroughness 
-# Overview of the hiring process
+* Technical Expertise
+
 ## Phone Screens
 #### Technical phone screen
 You'll be speaking with one of our tech leads or senior BA's to understand the technical nature of the role and technologies you've worked with historically.
