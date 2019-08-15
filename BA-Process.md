@@ -18,7 +18,7 @@ You'll be speaking with one of our tech leads or senior BA's to understand the t
 
 ## Onsite Interviews
 #### Whiteboard Feature Requirements
-You’ll be solving one or more different business problems by architecting solutions on a whiteboard.
+You’ll be solving one or more disfferent business problems by architecting solutions on a whiteboard.
 
 #### Process Review
 Our goal is to understand the depth and breadth of experiences you’ve had as an BA. We’ll look to understand the types of roles you’ve led, the teams you've worked with and your experience with stake holders and fellow BA's.  
@@ -37,7 +37,7 @@ Each interview will last approximately 45-­60 minutes and many will give you a 
 A 30-minute chat with a Prologis team member, this is not a part of the interview process and is not included in the evaluation. It provides you an opportunity to learn more about Prologis by asking questions about our products, culture, what it’s like to work at Prologis, etc.
 
 # During the whiteboard interviews
-We’re interested in how you approach the problem, how you communicate with an audience and how you take an idea through to delivery.
+We’re interested in how you approach the problem, how you communicate with an audience and how you take an idea through to delivery. We expect the candidate to demonstrate a basic knowledge of web application design principles, including API design and use, REST client/server communications, relational database design, etc.
 
 Our questions will typically start simple enough, but often leave room to explore interesting challenges. Real world challenges are often nuanced or subtle, and solutions to them often have second­order effects. Parts of our interview process are designed to explore these types of scenarios with you. Most of the problems will have a variety of different answers ranging from a naive solution to some much too complex to fit on a whiteboard. An optimal answer would be great, but we’re also interested in how you approach the problem – your thought process.
 
