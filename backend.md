@@ -1,4 +1,4 @@
-# Prologis CX Backend Challenge
+# Prologis CXT Backend Challenge
 
 Thank you for taking the time to do our technical test. It consists of two parts:
 
