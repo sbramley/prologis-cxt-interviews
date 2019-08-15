@@ -1,3 +1,4 @@
+# Overview of the hiring process
 What we’re looking for during the on-site interviews
 * Collaboration
 * Communication
@@ -8,7 +9,7 @@ What we’re looking for during the on-site interviews
 * Logical Reasoning
 * Problem Solving
 * Thoroughness 
-# Overview of the hiring process
+
 ## Phone Screens
 #### Technical phone screen
 You'll be writing some code in a collaborative editing environment (https://coderpad.io/) which allows one or two of our team members to evaluate your technical skills.
